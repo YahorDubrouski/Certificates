@@ -30,6 +30,12 @@
 
 ## QA Certificates
 
+![AI Automations and_AI_Agents_with n8n.jpg](AI_Automation_And_AI_Agents_With_N8N.jpg)
+
+---
+
+## AI Certificates
+
 ![QA Automation Diploma](png/QA_Automation_Diploma.png)
 
 ---
