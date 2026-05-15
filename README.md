@@ -36,7 +36,11 @@
 
 ## AI Certificates
 
-![AI Automations and_AI_Agents_with n8n.jpg](AI_Automation_And_AI_Agents_With_N8N.jpg)
+![AI Automations and_AI_Agents_with n8n](AI_Automation_And_AI_Agents_With_N8N.jpg)
+
+![Anthropic Agent Skills](png/Anthropic_Agent_Skills.png)
+
+![Anthropic Building with the Claude API.png](png/Anthropic_Building_with_the_Claude_API.png)
 
 ---
 
