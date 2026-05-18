@@ -40,6 +40,8 @@
 
 ![Anthropic Agent Skills](png/Anthropic_Agent_Skills.png)
 
+![Anthropic_Building_with_the_Claude_API.png](png/Anthropic_Building_with_the_Claude_API.png)
+
 ![introduction-to-model-context-protocol.png](png/introduction-to-model-context-protocol.png)
 
 ![claude-code-in-action.png](png/claude-code-in-action.png)
