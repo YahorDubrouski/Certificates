@@ -6,6 +6,8 @@
 
 ![Terraform Associate](png/Terraform_Associate.png)
 
+![Udemy Linux Foundation Certified Systems Administrator LFCS](png/Udemy_Linux_Foundation_Certified_Systems_Administrator_LFCS.png)
+
 ---
 
 ## Frontend Certificates
